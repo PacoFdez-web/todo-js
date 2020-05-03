@@ -1,6 +1,6 @@
-# WEBPACK
+# WEBPACK APP TODO
 
-Proyecto inicial para crear aplicaciones con WEBPACK.
+Proyecto APP TODO con WEBPACK.
 
 ### NOTAS:
 
